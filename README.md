@@ -76,12 +76,12 @@ The project is tested using the [EICAR test file](https://www.eicar.org/), an in
 
 | | |
 |---|---|
-| Wazuh Agent (Active) | ![Agent Active](screenshots/1-agent-active.png) |
-| FIM Alert (EICAR detected) | ![FIM Alert](screenshots/2-fim-alert.png) |
-| n8n Workflow | ![n8n Workflow](screenshots/3-n8n-workflow.png) |
-| Successful Execution | ![Execution Success](screenshots/4-execution-success.png) |
-| Email Alert | ![Email Alert](screenshots/5-email-alert.png) |
-| Discord Alert | ![Discord Alert](screenshots/6-discord-alert.png) |
+| Wazuh Agent (Active) | ![Agent Active](screenshots/1-agent-active.jpeg) |
+| FIM Alert (EICAR detected) | ![FIM Alert](screenshots/2-fim-alert.jpeg) |
+| n8n Workflow | ![n8n Workflow](screenshots/3-n8n-workflow.jpeg) |
+| Successful Execution | ![Execution Success](screenshots/4-execution-success.jpeg) |
+| Email Alert | ![Email Alert](screenshots/5-email-alert.jpeg) |
+| Discord Alert | ![Discord Alert](screenshots/6-discord-alert.jpeg) |
 
 ---
 
